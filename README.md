@@ -14,11 +14,11 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=leCarpes&show_icons=true&theme=radical" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeticiaCarpesOliveira&show_icons=true&theme=radical" alt="Github stats" />
     </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leCarpes&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaCarpesOliveira&layout=compact" alt="Github stats" />
  </td>
   </tr>
 </table><br/>
