@@ -36,5 +36,5 @@ Linguagens & Tecnologias: `JavaScript`, `CSS`, `HTML`, `Git`
 ### Contato:
 
  <div align="left"> 
-  <a align="center" href="https://www.linkedin.com/in/let%C3%ADcia-carpes-b34aa1302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href="https://www.linkedin.com/in/let%C3%ADcia-carpes-de-oliveira-b34aa1302/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> # leCarpes
